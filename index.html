@@ -49,16 +49,18 @@
 
                 <!-- General Buttons Start -->
 
-                <button class="fontStyle italic" onclick="document.execCommand('italic',false,null);"
-                    title="Italicize Highlighted Text"></button>
-
-                <button class="fontStyle bold" onclick="document.execCommand( 'bold',false,null);"
-                    title="Bold Highlighted Text"></button>
-
-                <button class="fontStyle underline" onclick="document.execCommand( 'underline',false,null);">
+                <button class="fontStyle italic" id="italic-btn" onclick="makeItalic('italic-btn')"
+                    title="Italicize Highlighted Text">
                 </button>
 
-                <button class="fontStyle strikethrough" onclick="document.execCommand( 'strikethrough',false,null);">
+                <button class="fontStyle bold" id="bold-button" onclick="makeBold('bold-button')"
+                    title="Bold Highlighted Text">
+                </button>
+
+                <button class="fontStyle underline" id="underline-btn" onclick="makeUnderline('underline-btn')">
+                </button>
+
+                <button class="fontStyle strikethrough" id="strike-btn" onclick="makeStrikeThrough('strike-btn')">
                     <strikethrough></strikethrough>
                 </button>
 
