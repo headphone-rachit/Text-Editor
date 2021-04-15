@@ -1,0 +1,23 @@
+#container .color-apply{
+    width: 20px;
+    height: 10px;
+}
+
+#highlighter{
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.5vw;
+    margin-left: 1.5vw;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+#font-color{
+    display: flex;
+    flex-direction: column;
+    margin-right: 1.5vw;
+    margin-left: 1.5vw;
+    margin-top: auto;
+    margin-bottom: auto;
+}

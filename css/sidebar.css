@@ -1,0 +1,28 @@
+.sidebar{
+    flex: 0.7;
+    margin-right: 3px;
+    
+}
+
+.sidebar #icon{
+    background-color:rgb(87, 184, 187) ;
+    height: 7vh;
+}
+
+.sidebar #templates{
+    background-color: #f2f2f2;
+    height: 105vh;
+}
+
+.sidebar #templates #temImg{
+    margin-left: 14px;
+    background-image: url('../img/Icon-templates.svg');
+    background-repeat: no-repeat;
+    height: 4vh;
+}
+
+.sidebar #templates span{
+    color: black;
+    height: 105vh;
+    
+}

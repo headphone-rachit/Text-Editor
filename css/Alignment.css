@@ -1,0 +1,33 @@
+#container .align-left{
+    background-image: url('../img/Icon-align-left.svg');
+    width:40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 4vh;
+}
+
+#container .align-right{
+    background-image:url('../img/Icon\ feather-align-right.svg');
+    width:30px;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 4vh;
+}
+
+#container .align-center{
+    width: 30px;
+    background-size: contain;
+    background-image:url('../img/Icon-align-center.svg');
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 4vh;
+}
+
+#container .align-full{
+    width: 30px;
+    background-size: contain;
+    background-image:url('../img/Icon-align-justify.svg');
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 4vh;
+}

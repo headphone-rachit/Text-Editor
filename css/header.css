@@ -1,0 +1,30 @@
+.header{
+    position: sticky;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(87, 184, 187);
+    width: 100%;
+    height: 7vh;
+    color: aliceblue;
+}
+
+.header #profileImg{
+    margin-right: 50px;
+    width: 7vh;
+    background-image: url('../img/Profile-thumbnail.png');
+    background-repeat: no-repeat;
+}
+
+.header #projectName{
+    position: absolute;
+    left: 1.3vw;
+    font-size: 1.5vw;
+}
+
+.header #projectName img{
+    height: 15px;
+    width: 15px;
+    transform: rotate(90deg);
+}
+
+/* select#position-content option[id='left']   { background-image:url('../img/Icon-align-left.svg');   } */

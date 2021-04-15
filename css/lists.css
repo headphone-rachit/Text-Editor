@@ -1,0 +1,12 @@
+#container .unorderedlist{
+    background-image: url('../img/Icon-bullets.svg');
+    height: 3vh;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#container .orderedlist{
+    background-image: url('../img/ordered-list.webp');
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 4vh;
+}
