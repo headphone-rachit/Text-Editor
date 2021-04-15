@@ -3,7 +3,7 @@
     width:40px;
     margin-top: auto;
     margin-bottom: auto;
-    height: 4vh;
+    /* height: 4vh; */
 }
 
 #container .align-right{
@@ -11,7 +11,7 @@
     width:30px;
     margin-top: auto;
     margin-bottom: auto;
-    height: 4vh;
+    /* height: 4vh; */
 }
 
 #container .align-center{
@@ -20,7 +20,7 @@
     background-image:url('../img/Icon-align-center.svg');
     margin-top: auto;
     margin-bottom: auto;
-    height: 4vh;
+    /* height: 4vh; */
 }
 
 #container .align-full{
@@ -29,5 +29,5 @@
     background-image:url('../img/Icon-align-justify.svg');
     margin-top: auto;
     margin-bottom: auto;
-    height: 4vh;
+    /* height: 4vh; */
 }

@@ -1,6 +1,6 @@
 #container .unorderedlist{
     background-image: url('../img/Icon-bullets.svg');
-    height: 3vh;
+    /* height: 3vh; */
     margin-top: auto;
     margin-bottom: auto;
 }
@@ -8,5 +8,5 @@
     background-image: url('../img/ordered-list.webp');
     margin-top: auto;
     margin-bottom: auto;
-    height: 4vh;
+    /* height: 4vh; */
 }
